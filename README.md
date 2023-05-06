@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 WebApplication Name "Healthy"
+![Screenshot 2023-05-06 131539](https://user-images.githubusercontent.com/109161554/236612026-50e771eb-3d2f-4b98-8aea-4c6cd59bb448.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
